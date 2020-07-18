@@ -1,6 +1,6 @@
 # Front_detection
 
-This simple notebook shows how to extract the interface of a cell. According to disorder elastic system framework valuable information about the cell can be extracted by analyzing the behaviour of the interface of the cell It is therefore important to extract the interface correctly.
+This simple notebook shows how to extract the interface of a cell. According to disorder elastic system framework valuable information about the cell can be extracted by analyzing the behaviour of the interface of the cell. Extracting correctly the interface is therefore particularly important in many real applications.
 
 ```python
 
